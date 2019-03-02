@@ -1,0 +1,32 @@
+{
+  "name": "simonnik/yii2-ckfinder",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "description": "The ckeditor redactor with kcfinder for Yii2 application.",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "ckeditor",
+    "kcfinder",
+    "yii 2",
+    "yii2"
+  ],
+  "authors": [
+    {
+      "name": "Nefyodov Semyon",
+      "email": "sim4nix@gmail.com"
+    }
+  ],
+  "require": {
+    "2amigos/yii2-ckeditor-widget": "^2.1",
+    "yiisoft/yii2": "~2.0.14"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "sim4nix\\yii2-ckeditor\\": ""
+    }
+  }
+}
