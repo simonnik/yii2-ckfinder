@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "sim4nix\\ckeditor\\": ""
+      "sim4nix\\ckfinder\\": ""
     }
   }
 }
