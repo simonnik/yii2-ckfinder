@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "sim4nix\\yii2-ckeditor\\": ""
+      "sim4nix\\ckeditor\\": ""
     }
   }
 }
